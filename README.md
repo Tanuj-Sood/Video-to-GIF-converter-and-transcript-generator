@@ -24,3 +24,9 @@ Inside the terminal window write "cd {path to the folder where main.py is stored
 Run "pip install python-dotenv" on command prompt (only the first time running the code not after that anymore).
 
 After that follow from line 6 in the method 1
+
+
+
+FOR RUNNING THE PROGRAM
+
+Inside the .env change the value of "Creating.mp4" in the "BASE_VIDEO" to the file name of your video file and then run the program.
